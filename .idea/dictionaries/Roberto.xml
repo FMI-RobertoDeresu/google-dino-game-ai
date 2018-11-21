@@ -2,6 +2,7 @@
   <dictionary name="Roberto">
     <words>
       <w>chromedriver</w>
+      <w>opencv</w>
     </words>
   </dictionary>
 </component>
